@@ -1,0 +1,32 @@
+,0
+ID,ID personne interrogée
+ID collecteur,ID collecteur
+Date de début,Date de début
+Date de fin,Date de fin
+IP,Adresse IP
+Adresse e-mail,Adresse e-mail
+Prénom,Prénom
+Nom,Nom
+Custom 1,Custom 1
+Q1,Etes-vous inscrit pour voter?
+Q2,Facultatif : Gagnez €400 en inscrivant votre adresse mail. - Open-Ended Response
+Q3,Au premier tour: Pour quel candidat avez-vous voté au premier tour?
+Q4,Au premier tour: Est-ce que vous allez voter?
+Q4-text,Au premier tour: Est-ce que vous allez voter? - Autre (veuillez préciser)
+Q5,Au deuxième tour: (Est-ce que vous allez voter?) À quel point êtes-vous sûr?
+Q5-text,Au deuxième tour: (Est-ce que vous allez voter?) À quel point êtes-vous sûr? - Autre (veuillez préciser)
+Q6,Macron ou Le Pen? Ou blanc?
+Q6-text,Macron ou Le Pen? Ou blanc? - Blanc
+Q7,À quel point êtes-vous sûr de votre choix?
+Q7-text,À quel point êtes-vous sûr de votre choix? - Blanc
+Q8,Pensez-vous changer d'avis dans l’avenir?
+Q9,Avez-vous déjà changé d'avis auparavant?
+Q10,"Combien de fois avez-vous changé d'avis? (Supérieur, plus susceptible de changer)"
+Q11,À quand remonte la dernière fois où vous avez changé d’avis?
+Q12,Quelle était votre option: Abstention ou vote en faveur de l’autre candidat?
+Q13,Qui va remporter l'élection à votre avis?
+Q14,(Qui va remporter l'élection à votre avis?) <br><br>Pourquoi? <br><br>Les réponses rédactionnelles les plus perceptives seront récompensées de 500 euros supplémentaires. - Open-Ended Response
+Q15,Vos amis pensent-ils la même chose?
+Q16,(Vos amis pensent-ils la même chose?)<br><br>Veuillez expliquer pourquoi ou pourquoi pas.<br><br>Les réponses rédactionnelles les plus perceptives seront récompensées de 500 euros supplémentaires. - Open-Ended Response
+Q17,Pensez-vous que la personne que vous avez sélectionnée est le bon choix pour la France?
+Q18,(Pensez-vous que la personne que vous avez sélectionnée est le bon choix pour la France?) <br><br>Pourquoi? <br><br>Les réponses rédactionnelles les plus perceptives seront récompensées de 500 euros supplémentaires. - Open-Ended Response
