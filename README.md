@@ -42,10 +42,10 @@ In the week before the second round of the election I receieved 1014 responses f
 ----------------------
 #### Project #2: Unemployment data and FN vote 
 #### Introduction : 
-Here, to examine the relationship between economic conditions and FN support, I use unemployment data from the French interior ministry website as well as the vote results from the first round of the legislative elections in France in 2015, when the FN first broke ground in its history by finishing first in the elections. (however, it still sorely lost in the second) 
+Here, to examine the relationship between economic conditions and FN support, I use unemployment data from the French interior ministry website as well as the vote results from the first round of the legislative elections in France in 2015, when the FN first broke ground in its history by finishing first in the first round of elections.  
 
 #### Summary: 
 
-I find a positive correlation between unemployment data and share of the FN vote in 2015. I further extend this to the past presidential election results in 2017 to show that Macron's support is strongest where unemployment is lower. 
+I find a positive correlation between unemployment data and share of the FN vote in 2015. I further extend this to the past presidential election results in 2017 to show that Le Pen's support is strongest where unemployment is higher. 
 
 
